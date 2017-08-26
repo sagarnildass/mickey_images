@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img33.jpg</filename>
+	<path>C:\python_notebooks\Machine_learning_Engineer_Nanodegree\projects\capstone_object_detection_new\images\img33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mickey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>198</ymin>
+			<xmax>561</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>
